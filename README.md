@@ -1,7 +1,8 @@
 # Portafolio-Demo
 Este portafolio contiene proyectos relacionados con mi experiencia en Java (POO), Visual Basic, Visual Studio.NET y PHP/SQL.
 
-DETALLES: 
+DETALLES:
+
 *Los proyectos de Java(POO) son lo último creado hasta la fecha, usa un JRE 1.8.
 
 *Para ver lo de PHP podes ejecutar el XAMPP (no está incluido el software), si quieres ver el código, con el buen amigo BLOC DE NOTAS de toda la vida bastara o NOTEPAD++ para verlo en colores, deje capturas de la web de cada tp (trabajo practico), si hay algún problema con la ejecución de los tp y si están interesados les envió el XAMPP con los tp en su sitio.
