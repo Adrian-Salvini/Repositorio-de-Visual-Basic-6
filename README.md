@@ -1,15 +1,13 @@
 # Portafolio-Demo
-Este portafolio contiene proyectos relacionados con mi experiencia en Java (POO), Visual Basic, Visual Studio.NET y PHP/SQL.
 
-DETALLES:
+Este portafolio contiene ejemplos de mi trabajo en Java (POO), Visual Basic (6 y .NET) y PHP/SQL.
 
-*Los proyectos de Java(POO) son lo último creado hasta la fecha, usa un JRE 1.8.
+**DETALLES:**
 
-*Para ver lo de PHP podes ejecutar el XAMPP (no está incluido el software), si quieres ver el código, con el buen amigo BLOC DE NOTAS de toda la vida bastara o NOTEPAD++ para verlo en colores, deje capturas de la web de cada tp (trabajo practico), si hay algún problema con la ejecución de los tp y si están interesados les envió el XAMPP con los tp en su sitio.
+* **Java (POO):** Los proyectos más recientes, compatibles con JRE 1.8.
+* **PHP/SQL:** Requiere XAMPP para ejecutarse. El código PHP se puede ver con cualquier editor de texto. Capturas de pantalla de la interfaz web están incluidas. Si hay problemas, puedo proporcionar el XAMPP configurado.
+* **Visual Basic (6 y .NET):** Ejecutar como administrador debido a la interacción con archivos Access. El programa de VB6 tiene tooltips con instrucciones. Las credenciales son rick/vero. VB.NET tiene un botón para mostrar las contraseñas.
+* **Notas:** Todos los proyectos fueron probados en Windows 10, 7 y Exo del gobierno. La protección en los programas de VB puede causar un ligero retraso al inicio. Los proyectos de Java no tienen esta protección.
 
-*Cuando hallas instalado lo de vb6 y vb.net ejecútalos como administrador ya que al estar en Disco C necesita permiso, más por la hoja de Access para poder modificar desde el programa; que tenga la pc Access instalado o bórrale los datos a la hoja de Access que le deje al programa por si te da algún error, el programa vb6 si pasas el cursor por arriba de los lugares a completar aparece los nombres que debes poner, rick y el password vero, en vb.net tienes un cuadrado que al presionar aparece los password. 
-
-Todo fue probado en Windows 10, 7 y exo del gobierno, si tarda en arrancar un poco es por la protección instalado en los programas, los proyectos hechos en Java están libres de tal protección.
-
-¡¡¡Gracias por revisar mi portafolio!!!
+¡Gracias por revisar mi trabajo!
 
