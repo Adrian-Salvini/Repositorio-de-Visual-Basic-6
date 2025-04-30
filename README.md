@@ -1,4 +1,7 @@
 # Portafolio-Demo
+¡Hola! Este es mi portafolio personal donde muestro algunos de los proyectos que he desarrollado durante mi aprendizaje autodidacta.
+
+**Este portafolio se actualizará periódicamente con nuevos proyectos a medida que complete cursos y adquiera experiencia en nuevas tecnologías de desarrollo.**
 
 Este portafolio contiene ejemplos de mi trabajo en Java (POO), Visual Basic (6 y .NET) y PHP/SQL.
 
